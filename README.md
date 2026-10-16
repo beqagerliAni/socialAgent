@@ -18,7 +18,7 @@ Every time I wanted to know what a companies was up to, I'd open their page, scr
 
 Still an experiment, and most of it isn’t built yet. Here’s where things stand:
 
-🔎 Search works from a plain prompt. A question looks across TikTok, Facebook, and Instagram, and fetches up to 100 posts per run.
-🧠 Two AI tools are wired in. Jev and OpenAI are both set up, using Jev for sorting, filtering and openAI for analyzeing user request
-✅ Done so far: fetching posts, normalizing them, the Facebook fetch, the filters, and saving collected posts.
-🛠️ In progress: checking the AI prompts and search quality.
+- 🔎 Search works from a plain prompt. A question looks across TikTok, Facebook, and Instagram, and fetches up to 100 posts per run.
+- 🧠 Two AI tools are wired in. Jev and OpenAI are both set up, using Jev for sorting, filtering and openAI for analyzeing user request
+- ✅ Done so far: fetching posts, normalizing them, the Facebook fetch, the filters, and saving collected posts.
+- 🛠️ In progress: checking the AI prompts and search quality.
